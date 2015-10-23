@@ -1,2 +1,4 @@
 # hello-world
-Test Git
+Voici mon README finalisé !
+
+Fred
